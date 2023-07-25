@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Datbrotha
-- 👀 I’m interested in ... film making 
-- 🌱 I’m currently learning ... directing
-- 💞️ I’m looking to collaborate on ... everything
+- 👀 I’m interested in ... Film making 
+- 🌱 I’m currently learning ... Directing
+- 💞️ I’m looking to collaborate on ... Writing code
 - 📫 How to reach me ... daplugproductions1@gmail.com
 
 <!---
